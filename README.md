@@ -1,4 +1,4 @@
-# Front-end Dev Test
+# Frontend Examen en React 
 
 Este es un examen de entrevista se requerira que implemente una simple interface con especificas caracteristicas. Utiliza este projecto como tu vcs o repo aqui es donde implementaras lo que se solicita a continuacion 
 
