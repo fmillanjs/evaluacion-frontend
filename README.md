@@ -51,4 +51,8 @@ EXTRAS:
     - Agregar un saldo inicial que se vea reflejado el cambio al comprar una accion 
 
     - Agregar cualquier cosa innovadora que quieras que demuestre tu pasion por frontend
-    
+
+
+FINALIZAR: 
+
+    - Al finalizar favor de mandar el link de tu repo via email.
