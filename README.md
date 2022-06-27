@@ -34,12 +34,21 @@ Deberas dejar correr la terminal del servidor corriendo para obetener la data ne
 ## Instrucciones de Examen:
 
 TODO: 
+
     1 - Una lista de las acciones compradas 
+
     2 - Agregar funcionalidad a los botones 
+
     3 - Agregar una forma para comprar diferentes numero de acciones  
+
     4 - Poner tu propio estilo de diseño mejorado 
     
+
 EXTRAS: 
+
     - Poner al lado del boton de comprar un campo para cambiar cantidades de compra ej. - 0 +
+
     - Agregar un saldo inicial que se vea reflejado el cambio al comprar una accion 
+
     - Agregar cualquier cosa innovadora que quieras que demuestre tu pasion por frontend
+    
